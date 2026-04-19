@@ -3,6 +3,5 @@ folium==0.15.1
 geopy==2.4.1
 pandas==2.2.2
 streamlit-folium==0.18.0
-
 shapely==2.0.1
 pyproj==3.6.1
