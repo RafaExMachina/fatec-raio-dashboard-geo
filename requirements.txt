@@ -3,4 +3,5 @@ pandas
 folium
 streamlit-folium
 geopy
-googlemaps
+shapely==2.0.1
+pyproj==3.6.1
